@@ -29,5 +29,17 @@ mengimplementasikan 4 kelas yang memiliki peran dan fungsionalitas spesifik. Ber
    - Memiliki Method: Konstruktor, Setter & Getter, Membuat Tabel & Menampilkan Data
 
 # Alur rogram
+1. User diminta untuk memasukkan jumlah data baju yang ingin ditampilkan.
+2. User diminta untuk mengisi semua informasi terkait dengan setiap baju.
+3. Setelah User mengisi semua informasi terkait dengan baju, program akan menampilkan data baju yang telah dimasukkan oleh User.
 
 # Dokumentasi Program
+Input Jumlah Baju -> Isi Data Baju
+![Dokumentasi Program (1)](https://github.com/daffahag123/LP2DPBO2024C2/assets/135239333/a0b7be77-bdc5-43dd-a239-868587146979)
+![Dokumentasi Program (2)](https://github.com/daffahag123/LP2DPBO2024C2/assets/135239333/675bc66c-2465-4a2b-89e0-3325f2e06912)
+
+Menampilkan Data Baju
+![Dokumentasi Program (3)](https://github.com/daffahag123/LP2DPBO2024C2/assets/135239333/e91a0f48-8cee-49db-866b-5fe6165ff778)
+
+
+
