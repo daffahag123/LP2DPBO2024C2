@@ -27,6 +27,8 @@ mengimplementasikan 4 kelas yang memiliki peran dan fungsionalitas spesifik. Ber
    - Untuk menampilkan semua informasi terkait baju, agar tampilan data semakin rapih
    - Memiliki Atribut: Baris dan Kolom
    - Memiliki Method: Konstruktor, Setter & Getter, Membuat Tabel & Menampilkan Data
+  
+Selanjutnya, saya menggunakan kelas Shirt di dalam fungsi main, karena yang ingin diisi data dan ditampilkan adalah dari kelas Shirt.
 
 # Alur rogram
 1. User diminta untuk memasukkan jumlah data baju yang ingin ditampilkan.
